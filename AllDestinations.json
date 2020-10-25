@@ -16,7 +16,7 @@
     {
         "name": "Pease District Park",
         "category": "Greenspace",
-        "address": "1100 Kingsbury St, Austin, TX 78703",
+        "address": "https://www.google.com/maps/place/Pease+District+Park/@30.2814244,-97.7538619,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b56fd724adbd:0xfec3224ab1ee6b59!8m2!3d30.2814198!4d-97.7516732",
         "pic": "https://austinparks.org/wp-content/uploads/2018/05/Pease7-862x604.jpg",
         "blurb": "Urban park features trails, picnic space, sports courts & an annual public party in honor of Eeyore."
     },
