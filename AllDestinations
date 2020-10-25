@@ -1,0 +1,1073 @@
+[
+    {
+        "name":"Eastwoods Neighborhood Park",
+        "category":"Greenspace",
+        "address":"3001 Harris Park Ave, Austin, TX 78705",
+        "pic": "https://eastwoodsaustin.org/index_files/pic5511.jpg",
+        "blurb": "Large green area with tennis courts, picnic tables, a playground & open wooded space."
+    },
+    {
+        "name": "Butler Shores at Town Lake",
+        "category": "Greenspace",
+        "address": "200 S Lamar Bld, Austin, TX 78704",
+        "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/butler_shores.jpg?itok=uoM5h0a2",
+        "blurb": "Tranquil, grassy park offering an assortment of trails, exercise bars & other features."
+    },
+    {
+        "name": "Pease District Park",
+        "category": "Greenspace",
+        "address": "1100 Kingsbury St, Austin, TX 78703",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/Pease7-862x604.jpg",
+        "blurb": "Urban park features trails, picnic space, sports courts & an annual public party in honor of Eeyore."
+    },
+    {
+        "name": "Auditorium Shores at Town Lake Metropolitan Park",
+        "category": "Greenspace",
+        "address": "900 W Riverside Dr, Austin, TX 78704",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Auditorium_Shores_%282007%29.jpg",
+        "blurb": "This urban greenspace features an off-leash dog area, seasonal events & picnic tables."
+    },
+    {
+        "name": "Waterloo Neighborhood Park",
+        "category": "Greenspace",
+        "address": "500 E 12th St, Austin, TX 78701",
+        "pic": "https://res-4.cloudinary.com/dostuff-media/pic/upload//w_1200,q_75,c_limit,f_auto/v1486488107/page-pic-8683-3843d541-cfd1-46b1-9dd0-1ae7506cfca2.jpg",
+        "blurb": "This public park with a walking trail is the site of occasional events such as music festivals."
+    },
+    {
+        "name": "Rosewood Neighborhood Park",
+        "category": "Greenspace",
+        "address": "2300 Rosewood Park",
+        "pic": "https://www.nowplayingaustin.com/wp-content/uploads/sites/www.nowplayingaustin.com/pics/2019/06/Rosewood-Park-Splash-Pad.jpg",
+        "blurb": "Park with an outdoor pool & splash pad, a payground, shaded picnic areas & historic buildings."
+    },
+    {
+        "name": "Butler Metro Park",
+        "category": "Greenspace",
+        "address": "1000 Barton Springs Rd, Austin, Tx 78704",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/ButlerPark57.jpg",
+        "blurb": "Winding park with city vistas, a night-lit fountain, a pond, walking paths & other features."
+    },
+    {
+        "name": "Mayfield Park and Nature Preserve",
+        "category": "Greenspace",
+        "address": "Quiet 21-acre grounds with walking trails and a wildlife habitat with free-roaming peacocks.",
+        "pic": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_362,q_75,w_545/https://assets.simpleviewinc.com/simpleview/image/upload/crm/austin/011-59d14229c0b1cb6_59d14302-fcb3-c720-9ce131a92a6973d4.jpg",
+        "blurb": "3505 W 35th St, Austin, TX 78703"
+    },
+    {
+        "name": "Mueller Lake Park",
+        "category": "Greenspace",
+        "address": "4550 Mueller Blvd, Austin, TX 78723",
+        "pic": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_362,q_75,w_545/https://assets.simpleviewinc.com/simpleview/image/upload/crm/austin/011-59d14229c0b1cb6_59d14302-fcb3-c720-9ce131a92a6973d4.jpg",
+        "blurb": "A large lake anchors this park featuring an amphitheater, loop trail & picnic area"
+    },
+    {
+        "name": "West Austin Neighborhood Park",
+        "category": "Greenspace",
+        "address": "1317 W 10th St, Austin, TX 78703",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/16-west-austin-park-playground-new-1-862x318.jpg",
+        "blurb": "Snug urban park featuring a fenced off-leash dog area, pool, picnic shelter & playground."
+    },
+    {
+        "name": "Wooldridge Square",
+        "category": "Greenspace",
+        "address": "900 Guadalupe St, Austin, TX 78701",
+        "pic": "https://assets.simpleviewinc.com/simpleview/pic/fetch/c_fill,h_396,q_75,w_704/https://assets.simpleviewinc.com/simpleview/pic/upload/crm/austin/Wooldridge-SM0-eb59180daa4ad04_eb59195f-9376-bb98-66c6a86945afd158.jpg",
+        "blurb": "Small, historical public square featuring shade trees, grassy areas & a stately gazebo."
+    },
+    {
+        "name": "Shoal Creek Greenbelt",
+        "category": "Greenspace",
+        "address": "2600 N Lamar Blvd, Austin, TX 78705",
+        "pic": "https://cdn-assets.alltrails.com/uploads/photo/pic/19751326/large_db5e597b7a141901bd092420b69f2d6e.jpg",
+        "blurb": "A ribbon of a park spaning nearly 81 acres, which include shady traiils & a dog park."
+    },
+    {
+        "name": "Covert Park at Mount Bonnell",
+        "category": "Greenspace",
+        "address": "3800 Mt Bonnell Rd, Austin, TX 78731",
+        "pic": "https://2.bp.blogspot.com/-oEmDZbuRtdQ/TWa0jpSDfYI/AAAAAAAAEXs/BYjusCDJ6mI/s1600/Picture+36.png",
+        "blurb": "At 785-feet tall, or 106 steps, this hilltop park is the ighest point in the city."
+    },
+    {
+        "name": "Shipe Neighborhood Park",
+        "category": "Greenspace",
+        "address": "4400 Avenue G, Austin, TX 78751",
+        "pic": "https://austintexas.gov/sites/default/files/files/Communications/Web_Content/2013/shipe-sign.jpg",
+        "blurb": "Neighborhood 2-acre park providing sports courts & fields, a wading pool, playground & picnic space."
+    },
+    {
+        "name": "Republic Square",
+        "category": "Greenspace",
+        "address": "422 Guadalupe St, Austin, TX 78701",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/Republic-Square-Park-Featured-Image.jpg",
+        "blurb": "This public square located downtown is host to events such as outdoor movies & farmer's markets."
+    },
+    {
+        "name": "Zilker Park",
+        "category": "Greenspace",
+        "address": "2207 Lou Neff Rd, Austin, TX 78746",
+        "pic": "https://assets.simpleviewinc.com/simpleview/pic/fetch/c_fill,h_396,q_75,w_704/https://assets.simpleviewinc.com/simpleview/pic/upload/crm/austin/Barton-Springs_2b98a8fb-9ba7-8931-16f4d602c89ad1e2.jpg",
+        "blurb": "351-acre, urban park with botanical gardens, a spring-fed pool, a theatre & sports facilities."
+    },
+    {
+        "name": "Ramsey Neighborhood Park",
+        "category": "Greenspace",
+        "address": "4301 Rosedale Ave, Austin, TX 78756",
+        "pic": "https://media.chatterblock.com/cache/45/63/45632c6f109da0d25edf24a1e3e759c2.jpg",
+        "blurb": "Neighborhood park with a playground, outdoor pool, tennis & basketball courts & a softball field."
+    },
+    {
+        "name": "Edward Rendon Sr. Park at Festival Beach in Town Lake Metropolitan Park",
+        "category": "Greenspace",
+        "address": "2101 Jesse E. Segovia St, Austin, TX 78702",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/Featured-Image-Bike-Path-862x575.jpg",
+        "blurb": "Small riverside park featuring areas for picnics & sports, including a swimming pool."
+    },
+    {
+        "name": "Emma Long Metropolitan Park",
+        "category": "Greenspace",
+        "address": "1600 City Park Rd, Austin, TX 78730",
+        "pic": "https://media.timeout.com/pics/103937607/630/472/pic.jpg",
+        "blurb": "12 miles of forested trails on Lake Austin, with boat dock, barbecue pits & several swimming areas."
+    },
+    {
+        "name": "Onion Creek Greenbelt",
+        "category": "Greenspace",
+        "address": "7002 Onion Creek Dr, Austin, TX",
+        "pic": "https://media-cdn.tripadvisor.com/media/photo-s/11/aa/96/4b/photo0jpg.jpg",
+        "blurb": "555-acre regional park with an off-leash dog policy, pond & recreatopm trails for hiking & walks."
+    },
+    {
+        "name": "Bailey Neighborhood Park",
+        "category": "Greenspace",
+        "address": "1101 W 33rd St, Austin, TX 78705",
+        "pic": "https://1.bp.blogspot.com/-IrDKKOgPWCU/TfZX0R_2BAI/AAAAAAAAFhU/_1Y_TcMhubE/s1600/Picture+19.png",
+        "blurb": "Urban park with picnic tables, a playground, a volleyball court, a softball field & a splash pad."
+    },
+    {
+        "name": "West Enfield Neighborhood Park",
+        "category": "Greenspace",
+        "address": "2008 Enfield Rd, Austin, TX 78703",
+        "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/wenfield2.jpg?itok=02Pi-8aS",
+        "blurb": "At the northern end of a greenbelt, this park features a playground, swimming pool & tennis courts."
+    },
+    {
+        "name": "Peace Point at Lady Bird Lake Metropolitan Park",
+        "category": "Greenspace",
+        "address": "2200 S Lakeshore Blvd, Austin, TX 78741",
+        "pic": "https://sv.airbnb.com/google_place_photo?photoreference=CmRaAAAAnCpCWlQM0XeC1lhsylBc3P7nrFhamaCdJAPfQbWTwlSxjwPMKZL9vqJTZLdx-VT0wjmEyTuGYh3hvmRE3l5xX64ikmIVh78wMlWbMdxSPOryjO2NL9MHRM_fEddIkRvYEhAkjTjQoKW7gorrJCmFc0dFGhT27zC1rgpORYW2GlgUiD_LC4eN5A&maxwidth=800&maxheight=800&place_id=717414",
+        "blurb": "This simple 5-acre park on a peninsula along the Colorado River features a waterfront gazebo."
+    },
+    {
+        "name": "Ladybird Lake-Lamar Beach Metro Park",
+        "category": "Greenspace",
+        "address": "This park along a popular hike & bike trail has baseball fields & a pedestrian bridge over the lake.",
+        "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/tllamarbeach3.jpg?itok=bHrzVM_O",
+        "blurb": "1200 W Cesar Chavez St, Austin, TX 78703"
+    },
+    {
+        "name": "Adams-Hemphill Neighborhood Park",
+        "category": "Greenspace",
+        "address": "201 W 30th St, Austin, TX 78705",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/04/Copy-of-AdamHemphill1.jpg",
+        "blurb": "Local park & green space with a play area, 2 basketball courts, a grass field & picnic tables."
+    },
+    {
+        "name": "Little Stacy Neighborhood Park",
+        "category": "Greenspace",
+        "address": "1500 Alameda Dr, Austin, TX 78704",
+        "pic": "https://austintexas.gov/sites/default/files/pics/Parks/Planning/Little_Stacy/Picture2.jpg",
+        "blurb": "Woodsy 6-acre park offering kid-friendly features from a wading pool to a playground & picnicking."
+    },
+    {
+        "name": "Boggy Creek Greenbelt",
+        "category": "Greenspace",
+        "address": "1114 Nile St, Austin, TX 78702",
+        "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/boggycrkgrnblt.jpg?itok=kgnoxq4l",
+        "blurb": "Creekside park covering 89 acres with open fields & shady areas, suitable for picnicking and walks."
+    },
+    {
+        "name": "Blunn Creek Greenbelt",
+        "category": "Greenspace",
+        "address": "1901 East Side Dr, Austin, TX 78704",
+        "pic": "https://lh3.googleusercontent.com/proxy/3CBVFB6rDYvzwYW5lfXaMhKvM1zzDP7hUZXicXDirUQbriWTCU0ORTSc-yHF9i3qrG7QOdoDe_TkN4lu7XIyuMtVA1nplUfKYNpPqV1fqlppY1s",
+        "blurb": "Serene, wooded green space along a creek featuring a tree-lined trail and BBQ pits."
+    },
+    {
+        "name": "Eilers (Deep Eddy) Neighborhood Park",
+        "category": "Greenspace",
+        "address": "401 Deep Eddy Ave, Austin, TX 78703",
+        "pic": "https://www.austintexas.gov/sites/default/files/pics/Eilers1.jpg",
+        "blurb": "The 8-acre park features a spring-fed pool, toddler play area, dock onto Town Lake & picnic tables."
+    },
+    {
+        "name": "Bartholomew Park",
+        "category": "Greenspace",
+        "address": "5201 Berkman Dr, Austin, TX 78723",
+        "pic": "https://austintexas.gov/sites/default/files/files/Parks/CIP/BARTHOLOMEW_POOL_PROJECT-20140418-34-01.jpg",
+        "blurb": "This park has disc golf, a creek & picnic areas along sports facilities on 57 areas."
+    },
+    {
+        "name": "Roy G. Guerrero Colorado River Metro Park",
+        "category": "Greenspace",
+        "address": "400 Grove Blvd, Austin, TX 78741",
+        "pic": "https://austinparks.org/wp-content/uploads/2019/07/garrison-park-trail-1000x667.jpg",
+        "blurb": "This park features play equipment, a disc golf course & a trail leading to the Colorado River."
+    },
+    {
+        "name": "Beverly S. Sheffield Northwest District Park",
+        "category": "Greenspace",
+        "address": "7000 Ardath St, Austin, TX 78757",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/nw-disrict-4-862x647.jpg",
+        "blurb": "Popular space with a playground & pool, plus basketball & tennis courts & many picnic tables."
+    },
+    {
+        "name": "Springdale Neighborhood Park",
+        "category": "Greenspace",
+        "address": "1175 Nickols Ave, Austin, TX 78721",
+        "pic": "https://austinparks.org/wp-content/uploads/2020/02/springdale-neighborhood-park-1200x628-1-1024x536-1.jpg",
+        "blurb": "City park with picnic shelters & tables, a playground & a short trail for walkers."
+    },
+    {
+        "name": "Dottie Jordan Neighborhood Park",
+        "category": "Greenspace",
+        "address": "2803 Loyola Ln, Austin, TX 78723",
+        "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/dottiejordan.jpg?itok=66arUn61",
+        "blurb": "Green space featuring an outdoor pool & basketball courts, plus barbecue pits & picnic tables."
+    },
+    {
+        "name": "Sir Swante Palm Neighborhood Park",
+        "category": "Greenspace",
+        "address": "200 N IH 35 Svrd SB, Austin, TX 78701",
+        "pic": "https://austinparks.files.wordpress.com/2008/09/9408berm1.jpg",
+        "blurb": "Compact, grassy park with parks, playground equipment & a monument to a 19th-c. Swedish immigrant."
+    },
+    {
+        "name": "Parque Zaragoza Neighborhood Park",
+        "category": "Greenspace",
+        "address": "2608 Gonzales St, Austin, TX 78702",
+        "pic": "https://tclf.org/sites/default/files/thumbnails/pic/ParqueZaragoza-6-VictorOvalle2015jpg.jpg",
+        "blurb": "Community spot with hiking trails & athletic fields, picnic areas & an indoor recreation center."
+    },
+    {
+        "name": "Duncan Neighborhood Park",
+        "category": "Greenspace",
+        "address": "900 W 9th St, Austin, TX 78701",
+        "pic": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/6e/6c/ce/duncan-park-austin-tx.jpg",
+        "blurb": "Park featuring a quiet green space bordered by a creek, plus a separate area with rugged BMX trails."
+    },
+    {
+        "name": "Dick Nichols District Park",
+        "category": "Greenspace",
+        "address": "8011 Beckett Rd, Austin, TX 78749",
+        "pic": "https://austinparks.org/wp-content/uploads/2019/07/dick-nichols-district-park.jpg",
+        "blurb": "This 152-acre space features play areas, a walking trail, picnic tables, a pool & sport courts."
+    },
+    {
+        "name": "Red Bud Isle",
+        "category": "Greenspace",
+        "address": "3401 Redbud Trail, Austin, TX 78746",
+        "pic": "https://res.cloudinary.com/culturemap-com/pic/upload/ar_4:3,c_fill,g_faces:center,w_1200/v1524673806/photos/33643_original.jpg",
+        "blurb": "Lakefront off-leash dog park with 13 acres of recreational space, plus hiking, canoeing & kayaking."
+    },
+    {
+        "name": "Waller Beach at Town Lake Metropolitan Park",
+        "category": "Greenspace",
+        "address": "30 East Ave, Austin, TX 78701",
+        "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/tllamarbeach1.jpg?itok=N68xRLpe",
+        "blurb": "Downtown riverfront park & popular kayaaking, picnicking & fishing spot with trail access."
+    },
+    {
+        "name": "Commons Ford Ranch Metropolitan Park",
+        "category": "Greenspace",
+        "address": "614 N Commons Ford Rd, Austin, TX 78733",
+        "pic": "https://pics.squarespace-cdn.com/content/v1/5c48abca266c07b8592790a0/1549041315264-OA83AB2ECZBOMIJM6I2Y/ke17ZwdGBToddI8pDm48kD33KhhWEodMJvcytjXFyvFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIXZi3p8TzzCd5LBww9rBU5Je7LlmHzK_8BCOYYXjEaPwKMshLAGzx4R3EDFOm1kBS/3516710_orig.jpg",
+        "blurb": "Lakefront park with picnic tables, BBQ pits, fishing, walkin trails, waterfalls & a boat ramp."
+    },
+    {
+        "name": "Govalle Neighborhood Park",
+        "category": "Greenspace",
+        "address": "5200 Bolm Rd, Austin, TX 78721",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/Featured-Park-Playscape.jpg",
+        "blurb": "26-acre city park, featuring athletic fields, a pool, picnic tables, BBQ pits & a playground."
+    },
+    {
+        "name": "Dove Springs District Park",
+        "category": "Greenspace",
+        "address": "5801 Ainez Dr, Austin, TX 78744",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/Copy-of-dove-springs-slide-small.jpg",
+        "blurb": "Large park with a playground & a pool, plus baseball, basketball, tennis & other sports."
+    },
+    {
+        "name": "Givens District Park",
+        "category": "Greenspace",
+        "address": "3811 E 12th St, Austin, TX 78721",
+        "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/givens.jpg?itok=99Yov1dk",
+        "blurb": "Community park with an indoor rec center, outdoor pool, tennis, softball, playgrounds & picnicking."
+    },
+    {
+        "name": "Bull Creek District Park",
+        "category": "Greenspace",
+        "address": "6701 Lakewood Dr, Austin, TX 78731",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/BullCreek8-862x570.jpg",
+        "blurb": "Tranquil, undeveloped park along the river with a variety of dog-friendly trails & picnic areas."
+    },
+    {
+        "name": "Walnut Creek Metropolitan Park",
+        "category": "Greenspace",
+        "address": "12138 N Lamar Blvd, Austin, TX 78753",
+        "pic": "https://cdn-assets.alltrails.com/uploads/photo/image/21479232/large_7c4c6b55846f9087b95ba31fd4025740.jpg",
+        "blurb": "This large public park known for its system of hiking & biking trails also has a playground & pool."
+    },
+    {
+        "name": "Pan American Neighborhood Park",
+        "category": "Greenspace",
+        "address": "2100 E 3rd St, Austin, TX 78702",
+        "pic": "https://i.ytimg.com/vi/IRa1GLrre-M/maxresdefault.jpg",
+        "blurb": "Bustling urban park offers athetlic fields & courts, picnic space, a playground & kids' wading pool."
+    },
+    {
+        "name": "Brentwood Neighborhood Park",
+        "category": "Greenspace",
+        "address": "6710 Arroyo Seco, Austin, TX 78757",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/Copy-of-Brentwood1-1024x600.jpg",
+        "blurb": "Local green space with a pool, playground & picnic areas, a walking path & small athletic fields."
+    },
+    {
+        "name": "Balcones District Park",
+        "category": "Greenspace",
+        "address": "12017 Amherst D, Austin, TX 78759",
+        "pic": "https://lh3.googleusercontent.com/proxy/uQMg5Q0xa7arD0Z6PK02z0yN5m3yz5fZ1Svrr2KYyynGOcLYJgHnN-hEAU1dExtCsq0pfu5OfUTUJkhsber05EiShF5_KTSNfzl7PPNtGtfZ3x9CPne9JvA",
+        "blurb": "Park offering tennis & basketball courts, a pool & a scenic creek with a nature trail & waterfall."
+    },
+    {
+        "name": "Longview Neighborhood Park",
+        "category": "Greenspace",
+        "address": "7609 Longview Rd, Austin, TX 78745",
+        "pic": "https://austinparks.org/wp-content/uploads/2017/09/longview-862x574.jpg",
+        "blurb": "20-acre park offering athletic fields & courts, plus a playground & a nature area with trails."
+    },
+    {
+        "name": "Wooten Neighborhood Park",
+        "category": "Greenspace",
+        "address": "1500 Dale Dr, Austin, TX 78757",
+        "pic": "https://austinparks.org/wp-content/uploads/2018/05/Copy-of-IMPD_2018_Spring7.jpg",
+        "blurb": "Small community park next to an elementary school offering a covered pavillion & a playground."
+    },
+    {
+        "name":"Austin Slow Burn",
+        "category":"Small Business",
+        "address":"3501 Dime Cir #113, Austin, TX 78744",
+        "blurb":"Sells various famous types of dipping sauces and jams.",
+        "pic":"https://pics.squarespace-cdn.com/content/v1/5818afc86a49632b8ef6c2ff/1565752964281-8TRIDEO58EBQ7I2B4DLE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/44_austin-slow-burn-2019.jpg?format=1000w"
+    },
+    {
+        "name":"Antonelli's Cheese Shop",
+        "category":"Small Business",
+        "address":"4220 Duval St, Austin, TX 78751",
+        "blurb":"Sells artisanal cheeses.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/7kC3-NLMf4u4Z-cIYRxQLmLlc40=/0x0:7915x5937/1200x800/filters:focal(1249x2270:2515x3536)/cdn.vox-cdn.com/uploads/chorus_pic/pic/62676463/Photo_Jan_15__16_01_27.0.jpg"
+    },
+    {
+        "name":"101 by Tea Haus",
+        "category": "Small Business",
+        "address": "6929 Airport Blvd #132, Austin, TX 78752",
+        "blurb": "A fast-casual spot with an Asian menu, grab and go items, pastries, and a bar.",
+        "pic":"https://www.austinchronicle.com/picr/b/original/2335641/8775/food_feature1-4.jpg"
+    },
+    {
+        "name":"Cocina 54",
+        "category":"Small Business",
+        "address": "4425 S MoPac Expy, Austin, TX 78735",
+        "blurb": "Sells frozen empanadas that have been made from scratch.",
+        "pic":"https://i1.wp.com/latinasinbusiness.us/wp-content/uploads/2020/07/01-Cocina-54-CK6-1-scaled.jpg?fit=2560%2C1707&ssl=1"
+    },
+    {
+        "name":"Cuvee Coffee Bar",
+        "category":"Small Business",
+        "address": "2000 E 6th St, Austin, TX 78702",
+        "blurb": "A cafe that sells coffee and blends.",
+        "pic":"https://i.shgcdn.com/55501aa0-0073-4b28-a7c0-a0ef837488d0/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+    },
+    {
+        "name":"1618 Asian Fusion",
+        "category":"Small Business",
+        "address": "1618 E Riverside Dr, Austin, TX 78741",
+        "blurb": "Offers a wide variety of Viet, Thai, Chinese, and other Asian foods.",
+        "pic": "https://pics.squarespace-cdn.com/content/v1/5d631e84d8846600014cf8d2/1575398407471-Z9YUYFDPYLC908SEJFRZ/ke17ZwdGBToddI8pDm48kOS3AUQ90FP8ZJWV6CLy8CZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO9K04HF_m6-PY_2tIx0BHCfOuuh9h5dH_-KiO5USq7gIw/IMG-3489+%281%29.jpg"
+    },
+    {
+        "name":"Altatudes",
+        "category":"Small Business",
+        "address": "1717 E 12th St, Austin, TX 78702",
+        "blurb": "An award-winning women's clothing store.",
+        "pic":"https://storage.googleapis.com/soulciti-1/2017/10/IMG_3952-scaled.jpg"
+    },
+    {
+        "name":"The Art of Shoes",
+        "category":"Small Business",
+        "address": "1002 S 1st St, Austin, TX 78704",
+        "blurb": "A space that offers shoemaking classes.",
+        "pic":"https://res.cloudinary.com/culturemap-com/pic/upload/ar_4:3,c_fill,g_faces:center,w_320/v1520461668/photos/270701_original.jpg"
+    },
+    {
+        "name":"Austin Natural Soap",
+        "category":"Small Business",
+        "address":"1801 S 1st St Ste A, Austin, TX 78704",
+        "blurb":"A shop that provides natural, handmade vegan soaps.",
+        "pic":"https://www.austinsoap.com/merchant2/graphics/00000002/storefrontnew_1000x432.jpg"
+    },
+    {
+        "name":"Desk Plants",
+        "category":"Small Business",
+        "address":"3200 Palm Way Suite 150, Austin, TX 78758",
+        "blurb":"A shop that sells various types of plants.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/xUABJtazUzt3KED17XMLMJGj714=/0x0:8349x5566/1200x800/filters:focal(3508x2116:4842x3450)/cdn.vox-cdn.com/uploads/chorus_pic/pic/66268504/IMG_2624.0.jpg"
+    },
+    {
+        "name":"El Arroyo",
+        "category":"Small Business",
+        "address":"1624 W 5th St, Austin, TX 78703",
+        "blurb":"A Mexican restaurant famous for its clever signs out front.",
+        "pic":"https://www.totalhappyhour.com/content/files/mod.happyhour/1fef4c9539f54cb0a110c4494b716f40.jpg"
+    },
+    {
+        "name":"Game Over Videogames",
+        "category":"Small Business",
+        "address":"2620 S Lamar Blvd Suite B, Austin, TX 78704",
+        "blurb":"A store that buys and sells both retro and modern video games.",
+        "pic":"https://austinot.com/wp-content/uploads/2019/05/IMG_20190506_155826_700_400.jpg"
+    },
+    {
+        "name":"Andiamo",
+        "category":"Small Business",
+        "address":"2521 Rutland Dr #325, Austin, TX 78758",
+        "blurb":"An Italian restaurant that sells locally sourced food.",
+        "pic":"https://andiamoitalia.com/wp-content/uploads/2015/06/livonia-exterior.jpg"
+    },
+    {
+        "name":"Bento Picnic",
+        "category":"Small Business",
+        "address":"2600 E Cesar Chavez St, Austin, TX 78702",
+        "blurb":"A shop that sells Japanese bento boxes.",
+        "pic":"https://pics.squarespace-cdn.com/content/v1/5c6d885cda50d37b5ba743ec/1558225412662-OEPJJWT15F3GZ2N4ZJNJ/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/Bento+Picnic+Shop.jpg?format=1500w"
+    },
+    {
+        "name":"Buenos Aires Cafe",
+        "category":"Small Business",
+        "address":"1201 E 6th St, Austin, TX 78702",
+        "blurb":"A restaurant that sells naturally raised meats.",
+        "pic":"https://media-cdn.tripadvisor.com/media/photo-s/09/a3/f7/df/buenos-aires-cafe-greenwich.jpg"
+    },
+    {
+        "name":"Chez Zee American Bistro",
+        "category":"Small Business",
+        "address":"5406 Balcones Dr, Austin, TX 78731",
+        "blurb":"A family-friendly Southern American restaurant.",
+        "pic":"https://www.austinchronicle.com/picr/b/original/44524/501f/chezzee.jpg"
+    },
+    {
+        "name":"FoodHeads",
+        "category":"Small Business",
+        "address":"616 W 34th St, Austin, TX 78705",
+        "blurb":"Cafe for housemade soups and sandwiches.",
+        "pic":"https://austinot.com/wp-content/uploads/2013/09/foodheads-austin-outdoors.jpg"
+    },
+    {
+        "name":"Franklin Barbecue",
+        "category":"Small Business",
+        "address":"900 E 11th St, Austin, TX 78702",
+        "blurb":"Restaurant for brisket, pulled pork, and other smoked meats",
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/16/Franklin_Barbecue_Austin_About_to_Open.jpg"
+    },
+    {
+        "name":"Frozen Rolls Creamery",
+        "category":"Small Business",
+        "address":"704 N Lamar Blvd, Austin, TX 78703",
+        "blurb":"Cafe that sells creative rolled ice cream concoctions.",
+        "pic":"https://do512family.com/wp-content/uploads/2019/02/RH101871.jpg"
+    },
+    {
+        "name":"G'Raj Mahal",
+        "category":"Small Business",
+        "address":"73 Rainey St, Austin, TX 78701",
+        "blurb":"A restaurant that serves Indian food in a large, tented area.",
+        "pic":"https://span.state.gov/sites/default/files/styles/photo_gallery_pic_node/public/21-G%27Raj%20Mahal-4442735196_d4c6c01223_o.jpg?itok=0su5fHIC"
+    },
+    {
+        "name":"Galaxy Cafe",
+        "category":"Small Business",
+        "address":"1000 W Lynn St, Austin, TX 78703",
+        "blurb":"An all-day cafe that sells omelets, wraps, and sandwiches.",
+        "pic":"https://www.fourpointsnews.com/wp-content/uploads/Capture-2-1024x545.png"
+    },
+    {
+        "name":"Happy Chicks",
+        "category":"Small Business",
+        "address":"214 E 6th St",
+        "blurb":"A local restaurant that specializes in chicken tenders.",
+        "pic": "https://austin.culturemap.com/thumbnail/600x600/photos/2019/12/31/Happy-Chicks-chicken-sandwich_123320.jpg"
+    },
+    {
+        "name":"Home Slice Pizza",
+        "category":"Small Business",
+        "address":"1415 S Congress Ave",
+        "blurb":"A neighborhood restaurant that sells New York-style pizza.",
+        "pic":"https://www.toledoblade.com/pic/2011/10/12/1140x_a10-7_cTC/home-slice-pizza.JPG"
+    },
+    {
+        "name":"Intero",
+        "category":"Small Business",
+        "address":"2612 E Cesar Chavez St Suite 105, Austin, TX 78702",
+        "blurb":"A sustainability-focused Italian restaurant that sells pasta and chocolates.",
+        "pic":"https://pics.squarespace-cdn.com/content/v1/58e9b0c6be659458e8155690/1554127995319-E7XM445A0SGIYKV1L3QU/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/B6.jpg?format=1000w"
+    },
+    {
+        "name":"Jeffrey's",
+        "category":"Small Business",
+        "address":"1204 W Lynn St, Austin, TX 78703",
+        "blurb":"Fine-dining restaurant for New American cuisine.",
+        "pic": "https://jeffreysofaustin.com/wp-content/uploads/2015/02/JEFFREYS_Austin_04.jpg"
+    },
+    {
+        "name":"la Barbecue",
+        "category":"Small Business",
+        "address":"2027 E Cesar Chavez St, Austin, TX 78702",
+        "blurb":"A counter in a small market that sells BBQ brisket and pulled pork.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/fEeN4z4rkYQ9cIoyQKHlm-vpv2Q=/0x0:500x375/1200x800/filters:focal(0x0:500x375)/cdn.vox-cdn.com/uploads/chorus_pic/pic/38816378/la_20barbecue_20trailer052214.0.jpg"
+    },
+    {
+        "name":"Lamberts Downtown Barbecue",
+        "category":"Small Business",
+        "address":"401 W 2nd St, Austin, TX 78701",
+        "blurb":"A restaurant that serves barbeque and has live music.",
+        "pic":"https://b.zmtcdn.com/data/pictures/0/16913120/c17d9d62e44e7077df2cf01778d2fbbe.jpg?fit=around|300:273&crop=300:273;*,*"
+    },
+    {
+        "name":"Kesos Tacos",
+        "category":"Small Business",
+        "address":"600 W Martin Luther King Jr Blvd, Austin, TX 78705",
+        "blurb":"A counter serve restaurant that offers a wide range of tacos.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/BfuSorB-0N6mV-p4uF-qQdofy7k=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_pic/pic/53410197/Kesos_Taco_House___S_Congress_FB.0.jpg"
+    },
+    {
+        "name":"Komé",
+        "category":"Small Business",
+        "address":"5301 Airport Blvd #100, Austin, TX 78751",
+        "blurb":"A restaurant that serves sushi on homestyle Japanese plates.",
+        "pic":"https://media-cdn.tripadvisor.com/media/photo-s/12/67/f6/09/exterior.jpg"
+    },
+    {
+        "name":"Nasha",
+        "category":"Small Business",
+        "address":"1614 E 7th St, Austin, TX 78702",
+        "blurb":"An Indian restaurant that sells traditional curries and fusion tacos.",
+        "pic":"https://media-cdn.tripadvisor.com/media/photo-s/10/fd/5a/43/painting-on-the-side.jpg"
+    },
+    {
+        "name":"Old Thousand",
+        "category":"Small Business",
+        "address":"1000 E 11th St, Austin, TX 78702",
+        "blurb":"A Chinese restaurant with modern twists, craft drinks, and music.",
+        "pic":"https://res-2.cloudinary.com/dostuff-media/pic/upload//w_1200,q_75,c_limit,f_auto/v1480442169/page-pic-8174-a76f0f27-dd6b-4e94-91ee-3c7c13052d7e.jpg"
+    },
+    {
+        "name":"Olive and June",
+        "category":"Small Business",
+        "address":"3411 Glenview Ave, Austin, TX 78703",
+        "blurb":"A multi-level terraced restaurant that sells Italian food.",
+        "pic":"https://lh3.googleusercontent.com/proxy/YKc5Jh2f14CzGXhlwppFmH7hRgibChhy3Dm-hXvwxYN0tr8qKnj_UVQOG4rroEEpGCI5eC0MYgYqXCu8k6s5zhyaM3biyegMLknzo-1XBxL9WDQ-UvtcP9NKsIcO9dtmYuc0KVfIpZw6gGxD0BO3kijsTWM9tYPTZc4SvBTbRbAWnCBgZ8YG1lP9Q3NgZl0"
+    },
+    {
+        "name":"The Parlor",
+        "category":"Small Business",
+        "address":"4301 W Guadalupe St B, Austin, TX 78751",
+        "blurb":"A restaurant that serves pizza with facilities for pool and pinball.",
+        "pic":"https://pics.otstatic.com/prod/24799889/1/huge.jpg"
+    },
+    {
+        "name":"Patika",
+        "category":"Small Business",
+        "address":"2159 S Lamar Blvd, Austin, TX 78704",
+        "blurb":"A cafe that sells coffee, espresso, and baked goods.",
+        "pic":"https://b.zmtcdn.com/data/pictures/1/18460571/dadcdee7dca7e8a36fb02f7fc2a32f0f.jpg"
+    },
+    {
+        "name":"The Peached Tortilla",
+        "category":"Small Business",
+        "address":"5520 Burnet Rd #100, Austin, TX 78756",
+        "blurb":"A restaurant with a casual retro flair known for Asian fusion fare.",
+        "pic":"https://d3hbe0kmbam4a5.cloudfront.net/photos/54005f9e-df6f-495e-9bca-9d439649b7e9.jpg"
+    },
+    {
+        "name":"Pool Burger",
+        "category":"Small Business",
+        "address":"2315 Lake Austin Blvd, Austin, TX 78703",
+        "blurb":"A hormone-free burger restaurant that is situated by a pool.",
+        "pic":"https://media.cntraveler.com/photos/5a74c0ecb528a60bf010817c/master/pass/Pool-Burger__2018_DSC_1495.jpg"
+    },
+    {
+        "name":"Prohibition Creamery",
+        "category":"Small Business",
+        "address":"1407 E 7th St, Austin, TX 78702",
+        "blurb":"A creamery that sells alcohol-free ice cream and milkshakes.",
+        "pic":"https://lh3.googleusercontent.com/proxy/JWULtN-9_ZS-lUkX6MWA8efsVDch5-Re78AWHBZ6A2MW3WgYJX50pKpuyG1hqQkeZp78ZJbEQI2kHcnyPYdXPECrXeopigcWlpEJxhFTMEFh4QuSDBHFd7lvy5UxnloN"
+    },
+    {
+        "name":"Rebel Cheese",
+        "category":"Small Business",
+        "address":"2200 Aldrich St Suite 120, Austin, TX 78723",
+        "blurb":"A deli and wine shop that serves unique, artisan cheeses.",
+        "pic": "https://pics.happycow.net/venues/1024/18/55/hcmp185599_758460.jpeg"
+    },
+    {
+        "name":"Rosarito",
+        "category":"Small Business",
+        "address":"1108 E 12th St, Austin, TX 78702",
+        "blurb":"A food truck that sells Mexican Pacific street food.",
+        "pic": "https://www.austinchronicle.com/binary/f59e/food_feature20-1.jpg"
+    },
+    {
+        "name":"Sakura Sushi",
+        "category":"Small Business",
+        "address":"1945 Medical Dr #500, Lakeway, TX 78734",
+        "blurb":"A restaurant that specializes in Japanese food, particularly sushi.",
+        "pic": "https://communityimpact.com/wp-content/uploads/2017/10/LTW_10-17-35-1.jpg"
+    },
+    {
+        "name":"Sala & Betty",
+        "category":"Small Business",
+        "address":"5201 Airport Blvd, Austin, TX 78751",
+        "blurb":"A restaurant that serves New American cuisine that is farm-sourced.",
+        "pic": "https://www.austinchronicle.com/binary/765a/food_SalaAndBetty1.jpg"
+    },
+    {
+        "name":"Salt & Time",
+        "category":"Small Business",
+        "address":"1912 E 7th St, Austin, TX 78702",
+        "blurb":"A rustic restaurant in a butcher shop that serves meat-centric food.",
+        "pic": "https://encrypted-tbn0.gstatic.com/pics?q=tbn%3AANd9GcS-u7Oi-_PZrI_fOfFXOyOvkCAVuMRl83GQHQ&usqp=CAU"
+    },
+    {
+        "name":"Scholz Garten",
+        "category":"Small Business",
+        "address":"1607 San Jacinto Blvd, Austin, TX 78701",
+        "blurb":"A restaurant that serves burgers and is in a garden-like setting.",
+        "pic": "https://austin.towers.net/wp-content/uploads/sites/19/scholz_1-e1510435078437.jpg"
+    },
+    {
+        "name":"Spicy Boys",
+        "category":"Small Business",
+        "address":"1701 E 6th St, Austin, TX 78702",
+        "blurb":"A fried chicken restaurant with an Asian twist.",
+        "pic": "https://roadfood.com/wp-content/uploads/2019/07/IMG_0985.jpg"
+    },
+    {
+        "name":"Swedish Hill",
+        "category":"Small Business",
+        "address":"1120 W 6th St, Austin, TX 78703",
+        "blurb":"An outdoor-seating bakery that sells pastries and various baked goods.",
+        "pic": "https://lh3.googleusercontent.com/XferddL28LcRLtPNY4t3IB7jDj3PjLaqwTS5zulTS-VtHySEOi8qbYs1wLnWGv5q_KV1VTUqPYFpWnzJFYattLh-R3dq=s1600-e7-v1-rj"
+    },
+    {
+        "name":"Thai Fresh",
+        "category":"Small Business",
+        "address":"909 W Mary St, Austin, TX 78704",
+        "blurb":"A restaurant that serves cooked-to-order Thai dishes.",
+        "pic": "https://media-cdn.tripadvisor.com/media/photo-s/0f/a8/e8/71/thai-fresh-2017.jpg"
+    },
+    {
+        "name":"Tiny Pies",
+        "category":"Small Business",
+        "address":"2032 S Lamar Blvd",
+        "blurb":"A shop that sells various types of pies.",
+        "pic": "https://cdn.vox-cdn.com/thumbor/JricFsnohlHf4nJhLoBEL1RV6lE=/0x0:960x720/1400x1400/filters:focal(0x0:960x720):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_pic/pic/49405465/13092176_978629062206006_4768421913234946384_n.0.0.jpg"
+    },
+    {
+        "name":"Uchi",
+        "category":"Small Business",
+        "address":"801 S Lamar Blvd, Austin, TX 78704",
+        "blurb":"Sushi plus creative hot & cold dishes from chef Tyson Cole.",
+        "pic": "https://pics.cookingforengineers.com/pics3/640/ND2_7707_LR.jpg"
+    },
+    {
+        "name":"Vivel Crepes & Coffee",
+        "category":"Small Business",
+        "address":"2011 Main St #500, Lakeway, TX 78734",
+        "blurb":"A shop that is inspired by walk-up creperie and sidewalk cafes in Paris.",
+        "pic": "https://communityimpact.com/wp-content/uploads/2017/09/LTW-09-17-45-2.jpg"
+    },
+    {
+        "name":"Via 313 Pizza",
+        "category":"Small Business",
+        "address":"3016 Guadalupe St #100",
+        "blurb":"A shop that serves Detroit-style pizzas.",
+        "pic": "https://austinot.com/wp-content/uploads/2018/07/via-313-east-side-2-640x427.jpg"
+    },
+    {
+        "name":"'ZZA Pizza + Salad",
+        "category":"Small Business",
+        "address":"15511 Highway 71 West, Ste 150, Bee Cave, TX 78738",
+        "blurb":"A pizzeria that prides itself on speed while maintaining affordability and quality.",
+        "pic": "https://1.bp.blogspot.com/-gr-8MgNv27A/XioRo3u57lI/AAAAAAAAQpQ/CcQkziF6OTUTOuZFeDxAwV5MHpx5g0liACLcBGAsYHQ/s1600/01%2BEXT.jpg"
+    },
+    {
+        "name":"Austin Slow Burn",
+        "category":"Small Business",
+        "address":"3501 Dime Cir #113, Austin, TX 78744",
+        "blurb":"Sells various famous types of dipping sauces and jams.",
+        "image":"https://images.squarespace-cdn.com/content/v1/5818afc86a49632b8ef6c2ff/1565752964281-8TRIDEO58EBQ7I2B4DLE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/44_austin-slow-burn-2019.jpg?format=1000w"
+    },
+    {
+        "name":"Antonelli's Cheese Shop",
+        "category":"Small Business",
+        "address":"4220 Duval St, Austin, TX 78751",
+        "blurb":"Sells artisanal cheeses.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/7kC3-NLMf4u4Z-cIYRxQLmLlc40=/0x0:7915x5937/1200x800/filters:focal(1249x2270:2515x3536)/cdn.vox-cdn.com/uploads/chorus_image/image/62676463/Photo_Jan_15__16_01_27.0.jpg"
+    },
+    {
+        "name":"101 by Tea Haus",
+        "category": "Small Business",
+        "address": "6929 Airport Blvd #132, Austin, TX 78752",
+        "blurb": "A fast-casual spot with an Asian menu, grab and go items, pastries, and a bar.",
+        "pic":"https://www.austinchronicle.com/imager/b/original/2335641/8775/food_feature1-4.jpg"
+    },
+    {
+        "name":"Cocina 54",
+        "category":"Small Business",
+        "address": "4425 S MoPac Expy, Austin, TX 78735",
+        "blurb": "Sells frozen empanadas that have been made from scratch.",
+        "pic":"https://i1.wp.com/latinasinbusiness.us/wp-content/uploads/2020/07/01-Cocina-54-CK6-1-scaled.jpg?fit=2560%2C1707&ssl=1"
+    },
+    {
+        "name":"Cuvee Coffee Bar",
+        "category":"Small Business",
+        "address": "2000 E 6th St, Austin, TX 78702",
+        "blurb": "A cafe that sells coffee and blends.",
+        "pic":"https://i.shgcdn.com/55501aa0-0073-4b28-a7c0-a0ef837488d0/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+    },
+    {
+        "name":"1618 Asian Fusion",
+        "category":"Small Business",
+        "address": "1618 E Riverside Dr, Austin, TX 78741",
+        "blurb": "Offers a wide variety of Viet, Thai, Chinese, and other Asian foods.",
+        "pic": "https://images.squarespace-cdn.com/content/v1/5d631e84d8846600014cf8d2/1575398407471-Z9YUYFDPYLC908SEJFRZ/ke17ZwdGBToddI8pDm48kOS3AUQ90FP8ZJWV6CLy8CZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO9K04HF_m6-PY_2tIx0BHCfOuuh9h5dH_-KiO5USq7gIw/IMG-3489+%281%29.jpg"
+    },
+    {
+        "name":"Altatudes",
+        "category":"Small Business",
+        "address": "1717 E 12th St, Austin, TX 78702",
+        "blurb": "An award-winning women's clothing store.",
+        "pic":"https://storage.googleapis.com/soulciti-1/2017/10/IMG_3952-scaled.jpg"
+    },
+    {
+        "name":"The Art of Shoes",
+        "category":"Small Business",
+        "address": "1002 S 1st St, Austin, TX 78704",
+        "blurb": "A space that offers shoemaking classes.",
+        "pic":"https://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_320/v1520461668/photos/270701_original.jpg"
+    },
+    {
+        "name":"Austin Natural Soap",
+        "category":"Small Business",
+        "address":"1801 S 1st St Ste A, Austin, TX 78704",
+        "blurb":"A shop that provides natural, handmade vegan soaps.",
+        "pic":"https://www.austinsoap.com/merchant2/graphics/00000002/storefrontnew_1000x432.jpg"
+    },
+    {
+        "name":"Desk Plants",
+        "category":"Small Business",
+        "address":"3200 Palm Way Suite 150, Austin, TX 78758",
+        "blurb":"A shop that sells various types of plants.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/xUABJtazUzt3KED17XMLMJGj714=/0x0:8349x5566/1200x800/filters:focal(3508x2116:4842x3450)/cdn.vox-cdn.com/uploads/chorus_image/image/66268504/IMG_2624.0.jpg"
+    },
+    {
+        "name":"El Arroyo",
+        "category":"Small Business",
+        "address":"1624 W 5th St, Austin, TX 78703",
+        "blurb":"A Mexican restaurant famous for its clever signs out front.",
+        "pic":"https://www.totalhappyhour.com/content/files/mod.happyhour/1fef4c9539f54cb0a110c4494b716f40.jpg"
+    },
+    {
+        "name":"Game Over Videogames",
+        "category":"Small Business",
+        "address":"2620 S Lamar Blvd Suite B, Austin, TX 78704",
+        "blurb":"A store that buys and sells both retro and modern video games.",
+        "pic":"https://austinot.com/wp-content/uploads/2019/05/IMG_20190506_155826_700_400.jpg"
+    },
+    {
+        "name":"Andiamo",
+        "category":"Small Business",
+        "address":"2521 Rutland Dr #325, Austin, TX 78758",
+        "blurb":"An Italian restaurant that sells locally sourced food.",
+        "pic":"https://andiamoitalia.com/wp-content/uploads/2015/06/livonia-exterior.jpg"
+    },
+    {
+        "name":"Bento Picnic",
+        "category":"Small Business",
+        "address":"2600 E Cesar Chavez St, Austin, TX 78702",
+        "blurb":"A shop that sells Japanese bento boxes.",
+        "pic":"https://images.squarespace-cdn.com/content/v1/5c6d885cda50d37b5ba743ec/1558225412662-OEPJJWT15F3GZ2N4ZJNJ/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/Bento+Picnic+Shop.jpg?format=1500w"
+    },
+    {
+        "name":"Buenos Aires Cafe",
+        "category":"Small Business",
+        "address":"1201 E 6th St, Austin, TX 78702",
+        "blurb":"A restaurant that sells naturally raised meats.",
+        "pic":"https://media-cdn.tripadvisor.com/media/photo-s/09/a3/f7/df/buenos-aires-cafe-greenwich.jpg"
+    },
+    {
+        "name":"Chez Zee American Bistro",
+        "category":"Small Business",
+        "address":"5406 Balcones Dr, Austin, TX 78731",
+        "blurb":"A family-friendly Southern American restaurant.",
+        "pic":"https://www.austinchronicle.com/imager/b/original/44524/501f/chezzee.jpg"
+    },
+    {
+        "name":"FoodHeads",
+        "category":"Small Business",
+        "address":"616 W 34th St, Austin, TX 78705",
+        "blurb":"Cafe for housemade soups and sandwiches.",
+        "pic":"https://austinot.com/wp-content/uploads/2013/09/foodheads-austin-outdoors.jpg"
+    },
+    {
+        "name":"Franklin Barbecue",
+        "category":"Small Business",
+        "address":"900 E 11th St, Austin, TX 78702",
+        "blurb":"Restaurant for brisket, pulled pork, and other smoked meats",
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/16/Franklin_Barbecue_Austin_About_to_Open.jpg"
+    },
+    {
+        "name":"Frozen Rolls Creamery",
+        "category":"Small Business",
+        "address":"704 N Lamar Blvd, Austin, TX 78703",
+        "blurb":"Cafe that sells creative rolled ice cream concoctions.",
+        "pic":"https://do512family.com/wp-content/uploads/2019/02/RH101871.jpg"
+    },
+    {
+        "name":"G'Raj Mahal",
+        "category":"Small Business",
+        "address":"73 Rainey St, Austin, TX 78701",
+        "blurb":"A restaurant that serves Indian food in a large, tented area.",
+        "pic":"https://span.state.gov/sites/default/files/styles/photo_gallery_image_node/public/21-G%27Raj%20Mahal-4442735196_d4c6c01223_o.jpg?itok=0su5fHIC"
+    },
+    {
+        "name":"Galaxy Cafe",
+        "category":"Small Business",
+        "address":"1000 W Lynn St, Austin, TX 78703",
+        "blurb":"An all-day cafe that sells omelets, wraps, and sandwiches.",
+        "pic":"https://www.fourpointsnews.com/wp-content/uploads/Capture-2-1024x545.png"
+    },
+    {
+        "name":"Happy Chicks",
+        "category":"Small Business",
+        "address":"214 E 6th St",
+        "blurb":"A local restaurant that specializes in chicken tenders.",
+        "pic": "https://austin.culturemap.com/thumbnail/600x600/photos/2019/12/31/Happy-Chicks-chicken-sandwich_123320.jpg"
+    },
+    {
+        "name":"Home Slice Pizza",
+        "category":"Small Business",
+        "address":"1415 S Congress Ave",
+        "blurb":"A neighborhood restaurant that sells New York-style pizza.",
+        "pic":"https://www.toledoblade.com/image/2011/10/12/1140x_a10-7_cTC/home-slice-pizza.JPG"
+    },
+    {
+        "name":"Intero",
+        "category":"Small Business",
+        "address":"2612 E Cesar Chavez St Suite 105, Austin, TX 78702",
+        "blurb":"A sustainability-focused Italian restaurant that sells pasta and chocolates.",
+        "pic":"https://images.squarespace-cdn.com/content/v1/58e9b0c6be659458e8155690/1554127995319-E7XM445A0SGIYKV1L3QU/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/B6.jpg?format=1000w"
+    },
+    {
+        "name":"Jeffrey's",
+        "category":"Small Business",
+        "address":"1204 W Lynn St, Austin, TX 78703",
+        "blurb":"Fine-dining restaurant for New American cuisine.",
+        "pic": "https://jeffreysofaustin.com/wp-content/uploads/2015/02/JEFFREYS_Austin_04.jpg"
+    },
+    {
+        "name":"la Barbecue",
+        "category":"Small Business",
+        "address":"2027 E Cesar Chavez St, Austin, TX 78702",
+        "blurb":"A counter in a small market that sells BBQ brisket and pulled pork.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/fEeN4z4rkYQ9cIoyQKHlm-vpv2Q=/0x0:500x375/1200x800/filters:focal(0x0:500x375)/cdn.vox-cdn.com/uploads/chorus_image/image/38816378/la_20barbecue_20trailer052214.0.jpg"
+    },
+    {
+        "name":"Lamberts Downtown Barbecue",
+        "category":"Small Business",
+        "address":"401 W 2nd St, Austin, TX 78701",
+        "blurb":"A restaurant that serves barbeque and has live music.",
+        "pic":"https://b.zmtcdn.com/data/pictures/0/16913120/c17d9d62e44e7077df2cf01778d2fbbe.jpg?fit=around|300:273&crop=300:273;*,*"
+    },
+    {
+        "name":"Kesos Tacos",
+        "category":"Small Business",
+        "address":"600 W Martin Luther King Jr Blvd, Austin, TX 78705",
+        "blurb":"A counter serve restaurant that offers a wide range of tacos.",
+        "pic":"https://cdn.vox-cdn.com/thumbor/BfuSorB-0N6mV-p4uF-qQdofy7k=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/53410197/Kesos_Taco_House___S_Congress_FB.0.jpg"
+    },
+    {
+        "name":"Komé",
+        "category":"Small Business",
+        "address":"5301 Airport Blvd #100, Austin, TX 78751",
+        "blurb":"A restaurant that serves sushi on homestyle Japanese plates.",
+        "pic":"https://media-cdn.tripadvisor.com/media/photo-s/12/67/f6/09/exterior.jpg"
+    },
+    {
+        "name":"Nasha",
+        "category":"Small Business",
+        "address":"1614 E 7th St, Austin, TX 78702",
+        "blurb":"An Indian restaurant that sells traditional curries and fusion tacos.",
+        "pic":"https://media-cdn.tripadvisor.com/media/photo-s/10/fd/5a/43/painting-on-the-side.jpg"
+    },
+    {
+        "name":"Old Thousand",
+        "category":"Small Business",
+        "address":"1000 E 11th St, Austin, TX 78702",
+        "blurb":"A Chinese restaurant with modern twists, craft drinks, and music.",
+        "pic":"https://res-2.cloudinary.com/dostuff-media/image/upload//w_1200,q_75,c_limit,f_auto/v1480442169/page-image-8174-a76f0f27-dd6b-4e94-91ee-3c7c13052d7e.jpg"
+    },
+    {
+        "name":"Olive and June",
+        "category":"Small Business",
+        "address":"3411 Glenview Ave, Austin, TX 78703",
+        "blurb":"A multi-level terraced restaurant that sells Italian food.",
+        "pic":"https://lh3.googleusercontent.com/proxy/YKc5Jh2f14CzGXhlwppFmH7hRgibChhy3Dm-hXvwxYN0tr8qKnj_UVQOG4rroEEpGCI5eC0MYgYqXCu8k6s5zhyaM3biyegMLknzo-1XBxL9WDQ-UvtcP9NKsIcO9dtmYuc0KVfIpZw6gGxD0BO3kijsTWM9tYPTZc4SvBTbRbAWnCBgZ8YG1lP9Q3NgZl0"
+    },
+    {
+        "name":"The Parlor",
+        "category":"Small Business",
+        "address":"4301 W Guadalupe St B, Austin, TX 78751",
+        "blurb":"A restaurant that serves pizza with facilities for pool and pinball.",
+        "pic":"https://images.otstatic.com/prod/24799889/1/huge.jpg"
+    },
+    {
+        "name":"Patika",
+        "category":"Small Business",
+        "address":"2159 S Lamar Blvd, Austin, TX 78704",
+        "blurb":"A cafe that sells coffee, espresso, and baked goods.",
+        "pic":"https://b.zmtcdn.com/data/pictures/1/18460571/dadcdee7dca7e8a36fb02f7fc2a32f0f.jpg"
+    },
+    {
+        "name":"The Peached Tortilla",
+        "category":"Small Business",
+        "address":"5520 Burnet Rd #100, Austin, TX 78756",
+        "blurb":"A restaurant with a casual retro flair known for Asian fusion fare.",
+        "pic":"https://d3hbe0kmbam4a5.cloudfront.net/photos/54005f9e-df6f-495e-9bca-9d439649b7e9.jpg"
+    },
+    {
+        "name":"Pool Burger",
+        "category":"Small Business",
+        "address":"2315 Lake Austin Blvd, Austin, TX 78703",
+        "blurb":"A hormone-free burger restaurant that is situated by a pool.",
+        "pic":"https://media.cntraveler.com/photos/5a74c0ecb528a60bf010817c/master/pass/Pool-Burger__2018_DSC_1495.jpg"
+    },
+    {
+        "name":"Prohibition Creamery",
+        "category":"Small Business",
+        "address":"1407 E 7th St, Austin, TX 78702",
+        "blurb":"A creamery that sells alcohol-free ice cream and milkshakes.",
+        "pic":"https://lh3.googleusercontent.com/proxy/JWULtN-9_ZS-lUkX6MWA8efsVDch5-Re78AWHBZ6A2MW3WgYJX50pKpuyG1hqQkeZp78ZJbEQI2kHcnyPYdXPECrXeopigcWlpEJxhFTMEFh4QuSDBHFd7lvy5UxnloN"
+    },
+    {
+        "name":"Rebel Cheese",
+        "category":"Small Business",
+        "address":"2200 Aldrich St Suite 120, Austin, TX 78723",
+        "blurb":"A deli and wine shop that serves unique, artisan cheeses.",
+        "pic": "https://images.happycow.net/venues/1024/18/55/hcmp185599_758460.jpeg"
+    },
+    {
+        "name":"Rosarito",
+        "category":"Small Business",
+        "address":"1108 E 12th St, Austin, TX 78702",
+        "blurb":"A food truck that sells Mexican Pacific street food.",
+        "pic": "https://www.austinchronicle.com/binary/f59e/food_feature20-1.jpg"
+    },
+    {
+        "name":"Sakura Sushi",
+        "category":"Small Business",
+        "address":"1945 Medical Dr #500, Lakeway, TX 78734",
+        "blurb":"A restaurant that specializes in Japanese food, particularly sushi.",
+        "pic": "https://communityimpact.com/wp-content/uploads/2017/10/LTW_10-17-35-1.jpg"
+    },
+    {
+        "name":"Sala & Betty",
+        "category":"Small Business",
+        "address":"5201 Airport Blvd, Austin, TX 78751",
+        "blurb":"A restaurant that serves New American cuisine that is farm-sourced.",
+        "pic": "https://www.austinchronicle.com/binary/765a/food_SalaAndBetty1.jpg"
+    },
+    {
+        "name":"Salt & Time",
+        "category":"Small Business",
+        "address":"1912 E 7th St, Austin, TX 78702",
+        "blurb":"A rustic restaurant in a butcher shop that serves meat-centric food.",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-u7Oi-_PZrI_fOfFXOyOvkCAVuMRl83GQHQ&usqp=CAU"
+    },
+    {
+        "name":"Scholz Garten",
+        "category":"Small Business",
+        "address":"1607 San Jacinto Blvd, Austin, TX 78701",
+        "blurb":"A restaurant that serves burgers and is in a garden-like setting.",
+        "pic": "https://austin.towers.net/wp-content/uploads/sites/19/scholz_1-e1510435078437.jpg"
+    },
+    {
+        "name":"Spicy Boys",
+        "category":"Small Business",
+        "address":"1701 E 6th St, Austin, TX 78702",
+        "blurb":"A fried chicken restaurant with an Asian twist.",
+        "pic": "https://roadfood.com/wp-content/uploads/2019/07/IMG_0985.jpg"
+    },
+    {
+        "name":"Swedish Hill",
+        "category":"Small Business",
+        "address":"1120 W 6th St, Austin, TX 78703",
+        "blurb":"An outdoor-seating bakery that sells pastries and various baked goods.",
+        "pic": "https://lh3.googleusercontent.com/XferddL28LcRLtPNY4t3IB7jDj3PjLaqwTS5zulTS-VtHySEOi8qbYs1wLnWGv5q_KV1VTUqPYFpWnzJFYattLh-R3dq=s1600-e7-v1-rj"
+    },
+    {
+        "name":"Thai Fresh",
+        "category":"Small Business",
+        "address":"909 W Mary St, Austin, TX 78704",
+        "blurb":"A restaurant that serves cooked-to-order Thai dishes.",
+        "pic": "https://media-cdn.tripadvisor.com/media/photo-s/0f/a8/e8/71/thai-fresh-2017.jpg"
+    },
+    {
+        "name":"Tiny Pies",
+        "category":"Small Business",
+        "address":"2032 S Lamar Blvd",
+        "blurb":"A shop that sells various types of pies.",
+        "pic": "https://cdn.vox-cdn.com/thumbor/JricFsnohlHf4nJhLoBEL1RV6lE=/0x0:960x720/1400x1400/filters:focal(0x0:960x720):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/49405465/13092176_978629062206006_4768421913234946384_n.0.0.jpg"
+    },
+    {
+        "name":"Uchi",
+        "category":"Small Business",
+        "address":"801 S Lamar Blvd, Austin, TX 78704",
+        "blurb":"Sushi plus creative hot & cold dishes from chef Tyson Cole.",
+        "pic": "https://images.cookingforengineers.com/pics3/640/ND2_7707_LR.jpg"
+    },
+    {
+        "name":"Vivel Crepes & Coffee",
+        "category":"Small Business",
+        "address":"2011 Main St #500, Lakeway, TX 78734",
+        "blurb":"A shop that is inspired by walk-up creperie and sidewalk cafes in Paris.",
+        "pic": "https://communityimpact.com/wp-content/uploads/2017/09/LTW-09-17-45-2.jpg"
+    },
+    {
+        "name":"Via 313 Pizza",
+        "category":"Small Business",
+        "address":"3016 Guadalupe St #100",
+        "blurb":"A shop that serves Detroit-style pizzas.",
+        "pic": "https://austinot.com/wp-content/uploads/2018/07/via-313-east-side-2-640x427.jpg"
+    },
+    {
+        "name":"'ZZA Pizza + Salad",
+        "category":"Small Business",
+        "address":"15511 Highway 71 West, Ste 150, Bee Cave, TX 78738",
+        "blurb":"A pizzeria that prides itself on speed while maintaining affordability and quality.",
+        "pic": "https://1.bp.blogspot.com/-gr-8MgNv27A/XioRo3u57lI/AAAAAAAAQpQ/CcQkziF6OTUTOuZFeDxAwV5MHpx5g0liACLcBGAsYHQ/s1600/01%2BEXT.jpg"
+    }
+ ]
