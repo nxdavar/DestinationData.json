@@ -368,236 +368,236 @@
         "category":"Small Business",
         "address":"https://www.google.com/maps/place/Antonelli's+Cheese+Shop/@30.3043257,-97.7288269,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca7695604ba3:0x2eabe85c86498162!8m2!3d30.3043211!4d-97.7266382",
         "blurb":"Sells artisanal cheeses.",
-        "pic":"https://cdn.vox-cdn.com/thumbor/7kC3-NLMf4u4Z-cIYRxQLmLlc40=/0x0:7915x5937/1200x800/filters:focal(1249x2270:2515x3536)/cdn.vox-cdn.com/uploads/chorus_pic/pic/62676463/Photo_Jan_15__16_01_27.0.jpg"
+        "pic":"https://media.timeout.com/images/105011322/image.jpg"
     },
     {
         "name":"101 by Tea Haus",
         "category": "Small Business",
-        "address": "6929 Airport Blvd #132, Austin, TX 78752",
+        "address": "https://www.google.com/maps/place/101+by+Tea+Haus/@30.3371106,-97.7189118,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca3704f9d77b:0xe66e7721cfdef91a!8m2!3d30.337106!4d-97.7167231",
         "blurb": "A fast-casual spot with an Asian menu, grab and go items, pastries, and a bar.",
         "pic":"https://www.austinchronicle.com/picr/b/original/2335641/8775/food_feature1-4.jpg"
     },
     {
         "name":"Cocina 54",
         "category":"Small Business",
-        "address": "4425 S MoPac Expy, Austin, TX 78735",
+        "address": "https://www.google.com/maps/place/Cocina+54/@30.2396748,-97.817046,17z/data=!3m1!4b1!4m5!3m4!1s0x865b4ba6768cb30f:0x9c9fd0f4b9950bee!8m2!3d30.2396702!4d-97.8148573",
         "blurb": "Sells frozen empanadas that have been made from scratch.",
         "pic":"https://i1.wp.com/latinasinbusiness.us/wp-content/uploads/2020/07/01-Cocina-54-CK6-1-scaled.jpg?fit=2560%2C1707&ssl=1"
     },
     {
         "name":"Cuvee Coffee Bar",
         "category":"Small Business",
-        "address": "2000 E 6th St, Austin, TX 78702",
+        "address": "https://www.google.com/maps/place/Cuvee+Coffee+Bar/@30.2613935,-97.7232998,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5b636730eb1:0x280811cc87d6f1f7!8m2!3d30.2613889!4d-97.7211111",
         "blurb": "A cafe that sells coffee and blends.",
         "pic":"https://i.shgcdn.com/55501aa0-0073-4b28-a7c0-a0ef837488d0/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
     },
     {
         "name":"1618 Asian Fusion",
         "category":"Small Business",
-        "address": "1618 E Riverside Dr, Austin, TX 78741",
+        "address": "https://www.google.com/maps/place/1618+Asian+Fusion/@30.2454072,-97.7326578,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5b61bba974b:0x1bb54572f87457c5!8m2!3d30.2454026!4d-97.7304691",
         "blurb": "Offers a wide variety of Viet, Thai, Chinese, and other Asian foods.",
         "pic": "https://pics.squarespace-cdn.com/content/v1/5d631e84d8846600014cf8d2/1575398407471-Z9YUYFDPYLC908SEJFRZ/ke17ZwdGBToddI8pDm48kOS3AUQ90FP8ZJWV6CLy8CZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO9K04HF_m6-PY_2tIx0BHCfOuuh9h5dH_-KiO5USq7gIw/IMG-3489+%281%29.jpg"
     },
     {
         "name":"Altatudes",
         "category":"Small Business",
-        "address": "1717 E 12th St, Austin, TX 78702",
+        "address": "https://www.google.com/maps/place/Altatudes/@30.2733631,-97.7233389,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5bf6cf9ebe9:0x1ef277597363f92!8m2!3d30.2733585!4d-97.7211502",
         "blurb": "An award-winning women's clothing store.",
         "pic":"https://storage.googleapis.com/soulciti-1/2017/10/IMG_3952-scaled.jpg"
     },
     {
         "name":"The Art of Shoes",
         "category":"Small Business",
-        "address": "1002 S 1st St, Austin, TX 78704",
+        "address": "https://www.google.com/maps/place/The+Art+of+Shoes/@30.2538011,-97.7554561,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b51d380febc3:0x37d874160c414ae6!8m2!3d30.2537965!4d-97.7532674",
         "blurb": "A space that offers shoemaking classes.",
         "pic":"https://res.cloudinary.com/culturemap-com/pic/upload/ar_4:3,c_fill,g_faces:center,w_320/v1520461668/photos/270701_original.jpg"
     },
     {
         "name":"Austin Natural Soap",
         "category":"Small Business",
-        "address":"1801 S 1st St Ste A, Austin, TX 78704",
+        "address":"https://www.google.com/maps/place/Austin+Natural+Soap/@30.2538011,-97.7554561,17z/data=!4m5!3m4!1s0x8644b4e3781c54f9:0x2b7145919c15a6b!8m2!3d30.2472498!4d-97.755767",
         "blurb":"A shop that provides natural, handmade vegan soaps.",
         "pic":"https://www.austinsoap.com/merchant2/graphics/00000002/storefrontnew_1000x432.jpg"
     },
     {
         "name":"Desk Plants",
         "category":"Small Business",
-        "address":"3200 Palm Way Suite 150, Austin, TX 78758",
+        "address":"https://www.google.com/maps/place/Desk+Plants/@30.4033765,-97.7253298,17z/data=!4m8!1m2!2m1!1sDesk+Plants!3m4!1s0x8644cd27241aa3ff:0x8b7042a2fd6f600b!8m2!3d30.4033765!4d-97.7231411",
         "blurb":"A shop that sells various types of plants.",
         "pic":"https://cdn.vox-cdn.com/thumbor/xUABJtazUzt3KED17XMLMJGj714=/0x0:8349x5566/1200x800/filters:focal(3508x2116:4842x3450)/cdn.vox-cdn.com/uploads/chorus_pic/pic/66268504/IMG_2624.0.jpg"
     },
     {
         "name":"El Arroyo",
         "category":"Small Business",
-        "address":"1624 W 5th St, Austin, TX 78703",
+        "address":"https://www.google.com/maps/place/El+Arroyo/@30.2749685,-97.7667831,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5400be7cb8d:0xffc32adacf58438d!8m2!3d30.2749639!4d-97.7645944",
         "blurb":"A Mexican restaurant famous for its clever signs out front.",
         "pic":"https://www.totalhappyhour.com/content/files/mod.happyhour/1fef4c9539f54cb0a110c4494b716f40.jpg"
     },
     {
         "name":"Game Over Videogames",
         "category":"Small Business",
-        "address":"2620 S Lamar Blvd Suite B, Austin, TX 78704",
+        "address":"https://www.google.com/maps/place/Game+Over+Videogames/@30.2750426,-97.7996137,13z/data=!4m8!1m2!2m1!1sGame+Over+Videogames!3m4!1s0x8644b4d31e5242bb:0x6206778adbee66e1!8m2!3d30.2458494!4d-97.779801",
         "blurb":"A store that buys and sells both retro and modern video games.",
         "pic":"https://austinot.com/wp-content/uploads/2019/05/IMG_20190506_155826_700_400.jpg"
     },
     {
         "name":"Andiamo",
         "category":"Small Business",
-        "address":"2521 Rutland Dr #325, Austin, TX 78758",
+        "address":"https://www.google.com/maps/place/Andiamo+Ristorante/@30.3823463,-97.7255609,17z/data=!3m1!4b1!4m5!3m4!1s0x8644cb8daffd269b:0x9c43f84abb492ea1!8m2!3d30.3823417!4d-97.7233722",
         "blurb":"An Italian restaurant that sells locally sourced food.",
         "pic":"https://andiamoitalia.com/wp-content/uploads/2015/06/livonia-exterior.jpg"
     },
     {
         "name":"Bento Picnic",
         "category":"Small Business",
-        "address":"2600 E Cesar Chavez St, Austin, TX 78702",
+        "address":"https://www.google.com/maps/place/Bento+Picnic/@30.2585574,-97.7101633,16z/data=!4m8!1m2!2m1!1sBento+Picnic!3m4!1s0x8644b5d236d58089:0x71c023be688cdc9a!8m2!3d30.2540192!4d-97.715191",
         "blurb":"A shop that sells Japanese bento boxes.",
         "pic":"https://pics.squarespace-cdn.com/content/v1/5c6d885cda50d37b5ba743ec/1558225412662-OEPJJWT15F3GZ2N4ZJNJ/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/Bento+Picnic+Shop.jpg?format=1500w"
     },
     {
         "name":"Buenos Aires Cafe",
         "category":"Small Business",
-        "address":"1201 E 6th St, Austin, TX 78702",
+        "address":"https://www.google.com/maps/place/Buenos+Aires+Caf%C3%A9/@30.286806,-97.8697143,13z/data=!4m8!1m2!2m1!1sBuenos+Aires+Cafe!3m4!1s0x8644b5b01b006ebd:0x9edf14867d4317be!8m2!3d30.264232!4d-97.730405",
         "blurb":"A restaurant that sells naturally raised meats.",
         "pic":"https://media-cdn.tripadvisor.com/media/photo-s/09/a3/f7/df/buenos-aires-cafe-greenwich.jpg"
     },
     {
         "name":"Chez Zee American Bistro",
         "category":"Small Business",
-        "address":"5406 Balcones Dr, Austin, TX 78731",
+        "address":"https://www.google.com/maps/place/Chez+Zee+American+Bistro/@30.3366886,-97.7601516,17z/data=!3m1!4b1!4m5!3m4!1s0x8644cae41ec4cb4d:0xa2ff55fc9575b90d!8m2!3d30.336684!4d-97.7579629",
         "blurb":"A family-friendly Southern American restaurant.",
         "pic":"https://www.austinchronicle.com/picr/b/original/44524/501f/chezzee.jpg"
     },
     {
         "name":"FoodHeads",
         "category":"Small Business",
-        "address":"616 W 34th St, Austin, TX 78705",
+        "address":"https://www.google.com/maps/place/FoodHeads/@30.3008926,-97.7424897,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca7fc748e5bd:0xd72990353ad1e483!8m2!3d30.300888!4d-97.740301",
         "blurb":"Cafe for housemade soups and sandwiches.",
         "pic":"https://austinot.com/wp-content/uploads/2013/09/foodheads-austin-outdoors.jpg"
     },
     {
         "name":"Franklin Barbecue",
         "category":"Small Business",
-        "address":"900 E 11th St, Austin, TX 78702",
+        "address":"https://www.google.com/maps/place/Franklin+Barbecue/@30.2701234,-97.7335043,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5a4ae3bcc33:0x31aba8abf8f64c84!8m2!3d30.2701188!4d-97.7313156",
         "blurb":"Restaurant for brisket, pulled pork, and other smoked meats",
         "pic":"https://upload.wikimedia.org/wikipedia/commons/1/16/Franklin_Barbecue_Austin_About_to_Open.jpg"
     },
     {
         "name":"Frozen Rolls Creamery",
         "category":"Small Business",
-        "address":"704 N Lamar Blvd, Austin, TX 78703",
+        "address":"https://www.google.com/maps/place/Frozen+Rolls+Creamery/@30.2733123,-97.755732,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b51291626705:0x6548cb63df288edb!8m2!3d30.2733077!4d-97.7535433",
         "blurb":"Cafe that sells creative rolled ice cream concoctions.",
         "pic":"https://do512family.com/wp-content/uploads/2019/02/RH101871.jpg"
     },
     {
         "name":"G'Raj Mahal",
         "category":"Small Business",
-        "address":"73 Rainey St, Austin, TX 78701",
+        "address":"https://www.google.com/maps/place/G'Raj+Mahal/@30.2582555,-97.7409308,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5a90a8347bf:0x9c3601392eb28a25!8m2!3d30.2582509!4d-97.7387421",
         "blurb":"A restaurant that serves Indian food in a large, tented area.",
         "pic":"https://span.state.gov/sites/default/files/styles/photo_gallery_pic_node/public/21-G%27Raj%20Mahal-4442735196_d4c6c01223_o.jpg?itok=0su5fHIC"
     },
     {
         "name":"Galaxy Cafe",
         "category":"Small Business",
-        "address":"1000 W Lynn St, Austin, TX 78703",
+        "address":"https://www.google.com/maps/place/Galaxy+Cafe/@30.2786633,-97.8717852,12z/data=!4m8!1m2!2m1!1sGalaxy+Cafe!3m4!1s0x8644b56bc89a88d5:0x6b25a6504d21ac2e!8m2!3d30.2793876!4d-97.7600875",
         "blurb":"An all-day cafe that sells omelets, wraps, and sandwiches.",
         "pic":"https://www.fourpointsnews.com/wp-content/uploads/Capture-2-1024x545.png"
     },
     {
         "name":"Happy Chicks",
         "category":"Small Business",
-        "address":"214 E 6th St",
+        "address":"https://www.google.com/maps/place/Happy+Chicks/@30.2789225,-97.8717852,12z/data=!3m1!5s0x8644b5a776c9dce3:0x3bb642815fd8cb31!4m8!1m2!2m1!1sHappy+Chicks!3m4!1s0x8644b5a7714ba76d:0x45f2da2488228428!8m2!3d30.2676272!4d-97.7407802",
         "blurb":"A local restaurant that specializes in chicken tenders.",
         "pic": "https://austin.culturemap.com/thumbnail/600x600/photos/2019/12/31/Happy-Chicks-chicken-sandwich_123320.jpg"
     },
     {
         "name":"Home Slice Pizza",
         "category":"Small Business",
-        "address":"1415 S Congress Ave",
+        "address":"https://www.google.com/maps/place/Home+Slice+Pizza/@30.2791817,-97.8717852,12z/data=!4m8!1m2!2m1!1sHome+Slice+Pizza!3m4!1s0x8644b4fc5694debb:0xaaafd2846b56fc08!8m2!3d30.249222!4d-97.749518",
         "blurb":"A neighborhood restaurant that sells New York-style pizza.",
         "pic":"https://www.toledoblade.com/pic/2011/10/12/1140x_a10-7_cTC/home-slice-pizza.JPG"
     },
     {
         "name":"Intero",
         "category":"Small Business",
-        "address":"2612 E Cesar Chavez St Suite 105, Austin, TX 78702",
+        "address":"https://www.google.com/maps/place/Intero+Restaurant/@30.2537046,-97.7166187,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b43358ec17af:0x5413a0e75eed15ce!8m2!3d30.2537!4d-97.71443",
         "blurb":"A sustainability-focused Italian restaurant that sells pasta and chocolates.",
         "pic":"https://pics.squarespace-cdn.com/content/v1/58e9b0c6be659458e8155690/1554127995319-E7XM445A0SGIYKV1L3QU/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/B6.jpg?format=1000w"
     },
     {
         "name":"Jeffrey's",
         "category":"Small Business",
-        "address":"1204 W Lynn St, Austin, TX 78703",
+        "address":"https://www.google.com/maps/place/Jeffrey's/@30.2804276,-97.7613033,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b56be11eae9f:0xd98c79a2864cd718!8m2!3d30.280423!4d-97.7591146",
         "blurb":"Fine-dining restaurant for New American cuisine.",
         "pic": "https://jeffreysofaustin.com/wp-content/uploads/2015/02/JEFFREYS_Austin_04.jpg"
     },
     {
         "name":"la Barbecue",
         "category":"Small Business",
-        "address":"2027 E Cesar Chavez St, Austin, TX 78702",
+        "address":"https://www.google.com/maps/place/la+Barbecue/@30.2561114,-97.7245311,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5aec36d1d21:0xfd5679cbbac70752!8m2!3d30.2561068!4d-97.7223424",
         "blurb":"A counter in a small market that sells BBQ brisket and pulled pork.",
         "pic":"https://cdn.vox-cdn.com/thumbor/fEeN4z4rkYQ9cIoyQKHlm-vpv2Q=/0x0:500x375/1200x800/filters:focal(0x0:500x375)/cdn.vox-cdn.com/uploads/chorus_pic/pic/38816378/la_20barbecue_20trailer052214.0.jpg"
     },
     {
         "name":"Lamberts Downtown Barbecue",
         "category":"Small Business",
-        "address":"401 W 2nd St, Austin, TX 78701",
+        "address":"https://www.google.com/maps/place/Lamberts/@30.2648653,-97.7502667,17z/data=!3m2!4b1!5s0x8644b50f427e9edd:0x7edf0a3a625da905!4m5!3m4!1s0x8644b50f45cb6d01:0xba9914a0fce41be6!8m2!3d30.2648607!4d-97.748078",
         "blurb":"A restaurant that serves barbeque and has live music.",
         "pic":"https://b.zmtcdn.com/data/pictures/0/16913120/c17d9d62e44e7077df2cf01778d2fbbe.jpg?fit=around|300:273&crop=300:273;*,*"
     },
     {
         "name":"Kesos Tacos",
         "category":"Small Business",
-        "address":"600 W Martin Luther King Jr Blvd, Austin, TX 78705",
+        "address":"https://www.google.com/maps/place/Kesos+Tacos/@30.2827018,-97.7466331,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5768a0e0ac9:0xdd1c86bcb8b2361f!8m2!3d30.2826972!4d-97.7444444",
         "blurb":"A counter serve restaurant that offers a wide range of tacos.",
         "pic":"https://cdn.vox-cdn.com/thumbor/BfuSorB-0N6mV-p4uF-qQdofy7k=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_pic/pic/53410197/Kesos_Taco_House___S_Congress_FB.0.jpg"
     },
     {
         "name":"Komé",
         "category":"Small Business",
-        "address":"5301 Airport Blvd #100, Austin, TX 78751",
+        "address":"https://www.google.com/maps/place/Kom%C3%A9/@30.3140916,-97.7166567,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca0de61cf80d:0x3f7b99bf0542144b!8m2!3d30.314087!4d-97.714468",
         "blurb":"A restaurant that serves sushi on homestyle Japanese plates.",
         "pic":"https://media-cdn.tripadvisor.com/media/photo-s/12/67/f6/09/exterior.jpg"
     },
     {
         "name":"Nasha",
         "category":"Small Business",
-        "address":"1614 E 7th St, Austin, TX 78702",
+        "address":"https://www.google.com/maps/place/Nasha/@30.2637494,-97.7270508,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5b7371431af:0x9e02b955074f24fb!8m2!3d30.2637448!4d-97.7248621",
         "blurb":"An Indian restaurant that sells traditional curries and fusion tacos.",
         "pic":"https://media-cdn.tripadvisor.com/media/photo-s/10/fd/5a/43/painting-on-the-side.jpg"
     },
     {
         "name":"Old Thousand",
         "category":"Small Business",
-        "address":"1000 E 11th St, Austin, TX 78702",
+        "address":"https://www.google.com/maps/place/Old+Thousand/@30.2696147,-97.731965,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5bb40cdac21:0xf7864a288876ef65!8m2!3d30.2696101!4d-97.7297763",
         "blurb":"A Chinese restaurant with modern twists, craft drinks, and music.",
         "pic":"https://res-2.cloudinary.com/dostuff-media/pic/upload//w_1200,q_75,c_limit,f_auto/v1480442169/page-pic-8174-a76f0f27-dd6b-4e94-91ee-3c7c13052d7e.jpg"
     },
     {
         "name":"Olive and June",
         "category":"Small Business",
-        "address":"3411 Glenview Ave, Austin, TX 78703",
+        "address":"https://www.google.com/maps/place/Olive+%26+June/@30.3073214,-97.7533193,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca8518a7fdb1:0x51a8316a97d5c242!8m2!3d30.3073168!4d-97.7511306",
         "blurb":"A multi-level terraced restaurant that sells Italian food.",
         "pic":"https://lh3.googleusercontent.com/proxy/YKc5Jh2f14CzGXhlwppFmH7hRgibChhy3Dm-hXvwxYN0tr8qKnj_UVQOG4rroEEpGCI5eC0MYgYqXCu8k6s5zhyaM3biyegMLknzo-1XBxL9WDQ-UvtcP9NKsIcO9dtmYuc0KVfIpZw6gGxD0BO3kijsTWM9tYPTZc4SvBTbRbAWnCBgZ8YG1lP9Q3NgZl0"
     },
     {
         "name":"The Parlor",
         "category":"Small Business",
-        "address":"4301 W Guadalupe St B, Austin, TX 78751",
+        "address":"https://www.google.com/maps/place/The+Parlor/@30.2842707,-97.7538763,14z/data=!4m8!1m2!2m1!1sThe+Parlor!3m4!1s0x8644ca6b7a223ccb:0x856ad65f6397dd86!8m2!3d30.3086068!4d-97.7340486",
         "blurb":"A restaurant that serves pizza with facilities for pool and pinball.",
         "pic":"https://pics.otstatic.com/prod/24799889/1/huge.jpg"
     },
     {
         "name":"Patika",
         "category":"Small Business",
-        "address":"2159 S Lamar Blvd, Austin, TX 78704",
+        "address":"https://www.google.com/maps/place/Patika/@30.2474531,-97.7747956,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b4d9b99cd79f:0xe512108dba6f144c!8m2!3d30.2474485!4d-97.7726069",
         "blurb":"A cafe that sells coffee, espresso, and baked goods.",
         "pic":"https://b.zmtcdn.com/data/pictures/1/18460571/dadcdee7dca7e8a36fb02f7fc2a32f0f.jpg"
     },
     {
         "name":"The Peached Tortilla",
         "category":"Small Business",
-        "address":"5520 Burnet Rd #100, Austin, TX 78756",
+        "address":"https://www.google.com/maps/place/The+Peached+Tortilla/@30.2475272,-97.8076262,13z/data=!4m8!1m2!2m1!1sThe+Peached+Tortilla!3m4!1s0x8644b15913893dbb:0xa5a68edb713b8b13!8m2!3d30.202078!4d-97.6658405",
         "blurb":"A restaurant with a casual retro flair known for Asian fusion fare.",
         "pic":"https://d3hbe0kmbam4a5.cloudfront.net/photos/54005f9e-df6f-495e-9bca-9d439649b7e9.jpg"
     },
