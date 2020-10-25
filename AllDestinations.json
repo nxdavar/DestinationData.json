@@ -2,7 +2,7 @@
     {
         "name":"Eastwoods Neighborhood Park",
         "category":"Greenspace",
-        "address":"3001 Harris Park Ave, Austin, TX 78705",
+        "address":"https://www.google.com/maps/place/Eastwoods+Neighborhood+Park/@30.2905072,-97.734014,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b58573e72d95:0x283aaac8d4cd2dc0!8m2!3d30.2905026!4d-97.7318253",
         "pic": "https://eastwoodsaustin.org/index_files/pic5511.jpg",
         "blurb": "Large green area with tennis courts, picnic tables, a playground & open wooded space."
     },
