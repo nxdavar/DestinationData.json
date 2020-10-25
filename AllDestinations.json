@@ -205,168 +205,168 @@
     {
         "name": "Bartholomew Park",
         "category": "Greenspace",
-        "address": "5201 Berkman Dr, Austin, TX 78723",
+        "address": "https://www.google.com/maps/place/Bartholomew+Park/@30.3034511,-97.6983476,17z/data=!3m1!4b1!4m5!3m4!1s0x8644c9fe467b6e4b:0x6ea436fec1433ebb!8m2!3d30.3034465!4d-97.6961589",
         "pic": "https://austintexas.gov/sites/default/files/files/Parks/CIP/BARTHOLOMEW_POOL_PROJECT-20140418-34-01.jpg",
         "blurb": "This park has disc golf, a creek & picnic areas along sports facilities on 57 areas."
     },
     {
         "name": "Roy G. Guerrero Colorado River Metro Park",
         "category": "Greenspace",
-        "address": "400 Grove Blvd, Austin, TX 78741",
+        "address": "https://www.google.com/maps/place/Roy+G.+Guerrero+Colorado+River+Metro+Park/@30.2444558,-97.7066253,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b428eb1766bb:0x23c83e3661ef14ac!8m2!3d30.2444512!4d-97.7044366",
         "pic": "https://austinparks.org/wp-content/uploads/2019/07/garrison-park-trail-1000x667.jpg",
         "blurb": "This park features play equipment, a disc golf course & a trail leading to the Colorado River."
     },
     {
         "name": "Beverly S. Sheffield Northwest District Park",
         "category": "Greenspace",
-        "address": "7000 Ardath St, Austin, TX 78757",
+        "address": "https://www.google.com/maps/place/Beverly+S.+Sheffield+Northwest+District+Park/@30.3486876,-97.7435171,17z/data=!3m1!4b1!4m5!3m4!1s0x8644cb009ae96ae5:0x5686e3920528f529!8m2!3d30.348683!4d-97.7413284",
         "pic": "https://austinparks.org/wp-content/uploads/2018/05/nw-disrict-4-862x647.jpg",
         "blurb": "Popular space with a playground & pool, plus basketball & tennis courts & many picnic tables."
     },
     {
         "name": "Springdale Neighborhood Park",
         "category": "Greenspace",
-        "address": "1175 Nickols Ave, Austin, TX 78721",
+        "address": "https://www.google.com/maps/place/Springdale+Neighborhood+Park/@30.2776417,-97.6863159,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b66ce67954b7:0x632f8cc2e19d42e!8m2!3d30.2776371!4d-97.6841272",
         "pic": "https://austinparks.org/wp-content/uploads/2020/02/springdale-neighborhood-park-1200x628-1-1024x536-1.jpg",
         "blurb": "City park with picnic shelters & tables, a playground & a short trail for walkers."
     },
     {
         "name": "Dottie Jordan Neighborhood Park",
         "category": "Greenspace",
-        "address": "2803 Loyola Ln, Austin, TX 78723",
+        "address": "https://www.google.com/maps/place/Dottie+Jordan+Neighborhood+Park/@30.3141559,-97.6761605,17z/data=!3m1!4b1!4m5!3m4!1s0x8644c9dd2a9fcbb7:0xf5f70c558bb6b20a!8m2!3d30.3141513!4d-97.6739718",
         "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/dottiejordan.jpg?itok=66arUn61",
         "blurb": "Green space featuring an outdoor pool & basketball courts, plus barbecue pits & picnic tables."
     },
     {
         "name": "Sir Swante Palm Neighborhood Park",
         "category": "Greenspace",
-        "address": "200 N IH 35 Svrd SB, Austin, TX 78701",
+        "address": "https://www.google.com/maps/place/Sir+Swante+Palm+Neighborhood+Park/@30.262793,-97.7393372,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5a8cf7e3a5b:0xd447fe15a76a1f89!8m2!3d30.2627884!4d-97.7371485",
         "pic": "https://austinparks.files.wordpress.com/2008/09/9408berm1.jpg",
         "blurb": "Compact, grassy park with parks, playground equipment & a monument to a 19th-c. Swedish immigrant."
     },
     {
         "name": "Parque Zaragoza Neighborhood Park",
         "category": "Greenspace",
-        "address": "2608 Gonzales St, Austin, TX 78702",
+        "address": "https://www.google.com/maps/place/Parque+Zaragoza+Neighborhood+Park/@30.2616925,-97.7137076,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5ceedf576a7:0xddcc6f76b3b495a0!8m2!3d30.2616879!4d-97.7115189",
         "pic": "https://tclf.org/sites/default/files/thumbnails/pic/ParqueZaragoza-6-VictorOvalle2015jpg.jpg",
         "blurb": "Community spot with hiking trails & athletic fields, picnic areas & an indoor recreation center."
     },
     {
         "name": "Duncan Neighborhood Park",
         "category": "Greenspace",
-        "address": "900 W 9th St, Austin, TX 78701",
+        "address": "https://www.google.com/maps/place/Duncan+Neighborhood+Park/@30.2740524,-97.7532883,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b50d60e15e2f:0xd8e42b94a497c223!8m2!3d30.2740478!4d-97.7510996",
         "pic": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/6e/6c/ce/duncan-park-austin-tx.jpg",
         "blurb": "Park featuring a quiet green space bordered by a creek, plus a separate area with rugged BMX trails."
     },
     {
         "name": "Dick Nichols District Park",
         "category": "Greenspace",
-        "address": "8011 Beckett Rd, Austin, TX 78749",
+        "address": "https://www.google.com/maps/place/Dick+Nichols+District+Park/@30.2124442,-97.8620494,17z/data=!3m1!4b1!4m5!3m4!1s0x865b4bef96c700f3:0xb1135d99ff1f49d4!8m2!3d30.2124396!4d-97.8598607",
         "pic": "https://austinparks.org/wp-content/uploads/2019/07/dick-nichols-district-park.jpg",
         "blurb": "This 152-acre space features play areas, a walking trail, picnic tables, a pool & sport courts."
     },
     {
         "name": "Red Bud Isle",
         "category": "Greenspace",
-        "address": "3401 Redbud Trail, Austin, TX 78746",
+        "address": "https://www.google.com/maps/place/Red+Bud+Isle/@30.290854,-97.7890273,17z/data=!3m1!4b1!4m5!3m4!1s0x865b4aac90d190c3:0xc4add3ec4062dcdf!8m2!3d30.2908494!4d-97.7868386",
         "pic": "https://res.cloudinary.com/culturemap-com/pic/upload/ar_4:3,c_fill,g_faces:center,w_1200/v1524673806/photos/33643_original.jpg",
         "blurb": "Lakefront off-leash dog park with 13 acres of recreational space, plus hiking, canoeing & kayaking."
     },
     {
         "name": "Waller Beach at Town Lake Metropolitan Park",
         "category": "Greenspace",
-        "address": "30 East Ave, Austin, TX 78701",
+        "address": "https://www.google.com/maps/place/Waller+Beach+at+Town+Lake+Metropolitan+Park/@30.2572284,-97.7424646,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5ab241dae45:0x22218bb023c61a5!8m2!3d30.2572238!4d-97.7402759",
         "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/tllamarbeach1.jpg?itok=N68xRLpe",
         "blurb": "Downtown riverfront park & popular kayaaking, picnicking & fishing spot with trail access."
     },
     {
         "name": "Commons Ford Ranch Metropolitan Park",
         "category": "Greenspace",
-        "address": "614 N Commons Ford Rd, Austin, TX 78733",
+        "address": "https://www.google.com/maps/place/Commons+Ford+Ranch+Metropolitan+Park/@30.3363097,-97.8935577,17z/data=!3m1!4b1!4m5!3m4!1s0x865b3661d6f4f0b7:0x278634727e17f2cf!8m2!3d30.3363051!4d-97.891369",
         "pic": "https://pics.squarespace-cdn.com/content/v1/5c48abca266c07b8592790a0/1549041315264-OA83AB2ECZBOMIJM6I2Y/ke17ZwdGBToddI8pDm48kD33KhhWEodMJvcytjXFyvFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIXZi3p8TzzCd5LBww9rBU5Je7LlmHzK_8BCOYYXjEaPwKMshLAGzx4R3EDFOm1kBS/3516710_orig.jpg",
         "blurb": "Lakefront park with picnic tables, BBQ pits, fishing, walkin trails, waterfalls & a boat ramp."
     },
     {
         "name": "Govalle Neighborhood Park",
         "category": "Greenspace",
-        "address": "5200 Bolm Rd, Austin, TX 78721",
+        "address": "https://www.google.com/maps/place/Govalle+Neighborhood+Park/@30.2599846,-97.6926125,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b67c5b8fb989:0x247049bb1600eabf!8m2!3d30.25998!4d-97.6904238",
         "pic": "https://austinparks.org/wp-content/uploads/2018/05/Featured-Park-Playscape.jpg",
         "blurb": "26-acre city park, featuring athletic fields, a pool, picnic tables, BBQ pits & a playground."
     },
     {
         "name": "Dove Springs District Park",
         "category": "Greenspace",
-        "address": "5801 Ainez Dr, Austin, TX 78744",
+        "address": "https://www.google.com/maps/place/Dove+Springs+District+Park/@30.1858765,-97.739785,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b39e5271ec07:0x246539feb7902117!8m2!3d30.1858719!4d-97.7375963",
         "pic": "https://austinparks.org/wp-content/uploads/2018/05/Copy-of-dove-springs-slide-small.jpg",
         "blurb": "Large park with a playground & a pool, plus baseball, basketball, tennis & other sports."
     },
     {
         "name": "Givens District Park",
         "category": "Greenspace",
-        "address": "3811 E 12th St, Austin, TX 78721",
+        "address": "https://www.google.com/maps/place/Givens+District+Park/@30.2761992,-97.6937153,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b673a070537f:0xbb25f033b8acf116!8m2!3d30.2761946!4d-97.6915266",
         "pic": "https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/givens.jpg?itok=99Yov1dk",
         "blurb": "Community park with an indoor rec center, outdoor pool, tennis, softball, playgrounds & picnicking."
     },
     {
         "name": "Bull Creek District Park",
         "category": "Greenspace",
-        "address": "6701 Lakewood Dr, Austin, TX 78731",
+        "address": "https://www.google.com/maps/place/Bull+Creek+District+Park/@30.3677994,-97.7874786,17z/data=!4m8!1m2!2m1!1sBull+Creek+District+Park!3m4!1s0x865b34b516444121:0xaa3bc88ac36fdcbf!8m2!3d30.3669058!4d-97.7860809",
         "pic": "https://austinparks.org/wp-content/uploads/2018/05/BullCreek8-862x570.jpg",
         "blurb": "Tranquil, undeveloped park along the river with a variety of dog-friendly trails & picnic areas."
     },
     {
         "name": "Walnut Creek Metropolitan Park",
         "category": "Greenspace",
-        "address": "12138 N Lamar Blvd, Austin, TX 78753",
+        "address": "https://www.google.com/maps/place/Walnut+Creek+Metropolitan+Park/@30.4008085,-97.6886107,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ceb17a6314e5:0xd0093862c3e4a1d2!8m2!3d30.4008039!4d-97.686422",
         "pic": "https://cdn-assets.alltrails.com/uploads/photo/image/21479232/large_7c4c6b55846f9087b95ba31fd4025740.jpg",
         "blurb": "This large public park known for its system of hiking & biking trails also has a playground & pool."
     },
     {
         "name": "Pan American Neighborhood Park",
         "category": "Greenspace",
-        "address": "2100 E 3rd St, Austin, TX 78702",
+        "address": "https://www.google.com/maps/place/Pan+American+Neighborhood+Park/@30.2581115,-97.7228977,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b5b5c8c8b7cb:0x15ce0f81aa278be6!8m2!3d30.2581069!4d-97.720709",
         "pic": "https://i.ytimg.com/vi/IRa1GLrre-M/maxresdefault.jpg",
         "blurb": "Bustling urban park offers athetlic fields & courts, picnic space, a playground & kids' wading pool."
     },
     {
         "name": "Brentwood Neighborhood Park",
         "category": "Greenspace",
-        "address": "6710 Arroyo Seco, Austin, TX 78757",
+        "address": "https://www.google.com/maps/place/Brentwood+Neighborhood+Park/@30.3414081,-97.7333351,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca4d8b9d09e9:0xed54b6bc8146b80!8m2!3d30.3414035!4d-97.7311464",
         "pic": "https://austinparks.org/wp-content/uploads/2018/05/Copy-of-Brentwood1-1024x600.jpg",
         "blurb": "Local green space with a pool, playground & picnic areas, a walking path & small athletic fields."
     },
     {
         "name": "Balcones District Park",
         "category": "Greenspace",
-        "address": "12017 Amherst D, Austin, TX 78759",
+        "address": "https://www.google.com/maps/place/Balcones+District+Park/@30.4128986,-97.7224632,17z/data=!3m1!4b1!4m5!3m4!1s0x8644cc15103be303:0x46bdf2218c95c59b!8m2!3d30.412894!4d-97.7202745",
         "pic": "https://lh3.googleusercontent.com/proxy/uQMg5Q0xa7arD0Z6PK02z0yN5m3yz5fZ1Svrr2KYyynGOcLYJgHnN-hEAU1dExtCsq0pfu5OfUTUJkhsber05EiShF5_KTSNfzl7PPNtGtfZ3x9CPne9JvA",
         "blurb": "Park offering tennis & basketball courts, a pool & a scenic creek with a nature trail & waterfall."
     },
     {
         "name": "Longview Neighborhood Park",
         "category": "Greenspace",
-        "address": "7609 Longview Rd, Austin, TX 78745",
+        "address": "https://www.google.com/maps/place/Longview+Neighborhood+Park/@30.2024764,-97.8284461,17z/data=!3m1!4b1!4m5!3m4!1s0x865b4b7fd1b90601:0x7fc75b0dff293cdd!8m2!3d30.2024718!4d-97.8262574",
         "pic": "https://austinparks.org/wp-content/uploads/2017/09/longview-862x574.jpg",
         "blurb": "20-acre park offering athletic fields & courts, plus a playground & a nature area with trails."
     },
     {
         "name": "Wooten Neighborhood Park",
         "category": "Greenspace",
-        "address": "1500 Dale Dr, Austin, TX 78757",
+        "address": "https://www.google.com/maps/place/Wooten+Neighborhood+Park/@30.3542257,-97.7224735,17z/data=!3m1!4b1!4m5!3m4!1s0x8644cbb623f73fa1:0x6ee2f461a9895826!8m2!3d30.3542211!4d-97.7202848",
         "pic": "https://austinparks.org/wp-content/uploads/2018/05/Copy-of-IMPD_2018_Spring7.jpg",
         "blurb": "Small community park next to an elementary school offering a covered pavillion & a playground."
     },
     {
         "name":"Austin Slow Burn",
         "category":"Small Business",
-        "address":"3501 Dime Cir #113, Austin, TX 78744",
+        "address":"https://www.google.com/maps/place/Austin+Slow+Burn/@30.2063136,-97.7108567,17z/data=!3m1!4b1!4m5!3m4!1s0x865b4c8edc220f25:0xbed9971cc075107b!8m2!3d30.206309!4d-97.708668",
         "blurb":"Sells various famous types of dipping sauces and jams.",
         "pic":"https://pics.squarespace-cdn.com/content/v1/5818afc86a49632b8ef6c2ff/1565752964281-8TRIDEO58EBQ7I2B4DLE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/44_austin-slow-burn-2019.jpg?format=1000w"
     },
     {
         "name":"Antonelli's Cheese Shop",
         "category":"Small Business",
-        "address":"4220 Duval St, Austin, TX 78751",
+        "address":"https://www.google.com/maps/place/Antonelli's+Cheese+Shop/@30.3043257,-97.7288269,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca7695604ba3:0x2eabe85c86498162!8m2!3d30.3043211!4d-97.7266382",
         "blurb":"Sells artisanal cheeses.",
         "pic":"https://cdn.vox-cdn.com/thumbor/7kC3-NLMf4u4Z-cIYRxQLmLlc40=/0x0:7915x5937/1200x800/filters:focal(1249x2270:2515x3536)/cdn.vox-cdn.com/uploads/chorus_pic/pic/62676463/Photo_Jan_15__16_01_27.0.jpg"
     },
